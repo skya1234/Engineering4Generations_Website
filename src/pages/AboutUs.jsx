@@ -4,6 +4,9 @@ import { Card, Container, Row, Col } from "react-bootstrap";
 import "./AboutUs.css";
 import "/src/fontstyles.css";
 
+import img1 from "../images/e4g_img1.png"
+import img2 from "../images/e4g_img2.png"
+import img3 from "../images/e4g_img3.png"
 function AboutUs() {
     return (
         <div className="about-us">
@@ -23,13 +26,13 @@ function AboutUs() {
                             <Card.Text className="poppins-regular text-description">If you have any questions, please email dnloojr@gmail.com.</Card.Text>
                             <Row className = "text-center">
                                 <Col>
-                                    <Card.Img className = "card-image" src = "src/images/e4g_img1.png"/>
+                                    <Card.Img className = "card-image" src = {img1}/>
                                 </Col>
                                 <Col>    
-                                    <Card.Img className = "card-image" src = "src/images/e4g_img2.png"/>
+                                    <Card.Img className = "card-image" src = {img2}/>
                                 </Col>
                                 <Col>    
-                                    <Card.Img className = "card-image" src = "src/images/e4g_img3.png"/>
+                                    <Card.Img className = "card-image" src = {img3}/>
                                 </Col>
                             </Row>
                         </Card>
