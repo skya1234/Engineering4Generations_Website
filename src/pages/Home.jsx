@@ -6,11 +6,13 @@ import "/src/fontstyles.css";
 
 import Calendar from "/src/Calendar";
 
+import CardBG from "../images/homebg.jpg"
+
 function Home() {
     return (
         <>
             <Card className="bg-dark text-white home-card">
-                <Card.Img src="src/images/homebg.jpg" alt="Card image" className="green-darken-image"></Card.Img>
+                <Card.Img src={CardBG} alt="Card image" className="green-darken-image"></Card.Img>
                 <Card.ImgOverlay className="d-flex flex-column justify-content-center align-items-center">
                     <Card.Title className="poppins-extrabold-italic header">Engineering 4 Generations</Card.Title>
                     <Card.Text className="poppins-light sub-header">An engineering education program based in Dublin, CA</Card.Text>
