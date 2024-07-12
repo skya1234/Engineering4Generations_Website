@@ -1,0 +1,31 @@
+.navbar .navbar-brand{
+    color: #567c20 !important; /* Change the color of the brand text */
+    font-size: 250%;
+    margin-right: 1rem;
+    
+}
+
+.navbar .container {
+  /*override all other css max-width rules, including default bootstrap ones */
+  max-width: 600px !important;
+  display:flex;
+  justify-content:center;
+  
+}
+
+
+  
+  /* a represents a hyperlink that is part of the Nav.Link component */
+  
+  .nav-links a {
+    text-decoration: none; /* Remove underline on default */
+    padding: 0.5rem 1rem; /* Add some padding */
+    border-radius: 4px; /* Add rounded corners */
+    transition: all 0.2s ease-in-out; /* makes the hover effect smooth */
+  }
+  
+  .nav-links a:hover {
+    background-color: #eee; /* Change background color on hover */
+  }
+
+  

@@ -1,0 +1,47 @@
+.header-card .card-title{
+    
+    padding: 80px;
+    font-size: 50px;
+    color: #567c20;  
+}
+
+.header-card {
+    background-color: rgb(230, 247, 233) !important;
+    border: 1.5px solid #9dbba1 !important;
+}
+
+.about-us .container {
+   
+    max-width: 1000px; /* Adjust the width as needed */
+    margin: 0 auto; /*center the container*/
+}
+
+
+.mission-card .card-title{
+    padding: 10px;
+    font-size: 40px;
+}
+
+.mission-card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.mission-card .text-description{
+    padding: 10px;
+}
+
+.mission-card .card-image{
+    width: 250px; /* Adjust size as needed */
+    height: 250px; /* Adjust size as needed */
+    /* border-radius: 15%; */
+    object-fit: contain;
+    margin: 0 auto; /* Center the image */
+    padding-bottom: 30px;
+    
+    
+}
+
+
+

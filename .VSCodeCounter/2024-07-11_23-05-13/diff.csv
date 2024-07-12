@@ -1,0 +1,15 @@
+"filename", "language", "CSS", "JavaScript JSX", "XML", "comment", "blank", "total"
+"c:\Users\skyan\Desktop\Engineering4Generations Website\src\App.jsx", "JavaScript JSX", 0, -1, 0, 0, 2, 1
+"c:\Users\skyan\Desktop\Engineering4Generations Website\src\Calendar.css", "CSS", 9, 0, 0, 0, 2, 11
+"c:\Users\skyan\Desktop\Engineering4Generations Website\src\Calendar.jsx", "JavaScript JSX", 0, 56, 0, 4, 15, 75
+"c:\Users\skyan\Desktop\Engineering4Generations Website\src\assets\react.svg", "XML", 0, 0, -1, 0, 0, -1
+"c:\Users\skyan\Desktop\Engineering4Generations Website\src\index.css", "CSS", 0, 0, 0, 0, 1, 1
+"c:\Users\skyan\Desktop\Engineering4Generations Website\src\main.jsx", "JavaScript JSX", 0, 0, 0, 0, 2, 2
+"c:\Users\skyan\Desktop\Engineering4Generations Website\src\pages\AboutUs.css", "CSS", 10, 0, 0, 1, 4, 15
+"c:\Users\skyan\Desktop\Engineering4Generations Website\src\pages\AboutUs.jsx", "JavaScript JSX", 0, 17, 0, 0, 0, 17
+"c:\Users\skyan\Desktop\Engineering4Generations Website\src\pages\Home.css", "CSS", 15, 0, 0, 0, 4, 19
+"c:\Users\skyan\Desktop\Engineering4Generations Website\src\pages\Home.jsx", "JavaScript JSX", 0, 11, 0, 0, 1, 12
+"c:\Users\skyan\Desktop\Engineering4Generations Website\src\pages\Team.css", "CSS", 3, 0, 0, 0, 2, 5
+"c:\Users\skyan\Desktop\Engineering4Generations Website\src\pages\Team.jsx", "JavaScript JSX", 0, 6, 0, 0, 1, 7
+"c:\Users\skyan\Desktop\Engineering4Generations Website\src\pages\fontstyles.css", "CSS", 90, 0, 0, 1, 18, 109
+"Total", "-", 127, 89, -1, 6, 52, 273

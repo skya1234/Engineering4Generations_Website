@@ -1,0 +1,42 @@
+Date : 2024-07-11 23:05:13
+Directory : c:\Users\skyan\Desktop\Engineering4Generations Website\src
+Total : 13 files,  215 codes, 6 comments, 52 blanks, all 273 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| CSS            |          6 |        127 |          2 |         31 |        160 |
+| JavaScript JSX |          6 |         89 |          4 |         21 |        114 |
+| XML            |          1 |         -1 |          0 |          0 |         -1 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                            | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                               |         13 |        215 |          6 |         52 |        273 |
+| . (Files)                                                                       |          5 |         64 |          4 |         22 |         90 |
+| assets                                                                          |          1 |         -1 |          0 |          0 |         -1 |
+| pages                                                                           |          7 |        152 |          2 |         30 |        184 |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                        | language       | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| c:\Users\skyan\Desktop\Engineering4Generations Website\src\App.jsx              | JavaScript JSX |         -1 |          0 |          2 |          1 |
+| c:\Users\skyan\Desktop\Engineering4Generations Website\src\Calendar.css         | CSS            |          9 |          0 |          2 |         11 |
+| c:\Users\skyan\Desktop\Engineering4Generations Website\src\Calendar.jsx         | JavaScript JSX |         56 |          4 |         15 |         75 |
+| c:\Users\skyan\Desktop\Engineering4Generations Website\src\assets\react.svg     | XML            |         -1 |          0 |          0 |         -1 |
+| c:\Users\skyan\Desktop\Engineering4Generations Website\src\index.css            | CSS            |          0 |          0 |          1 |          1 |
+| c:\Users\skyan\Desktop\Engineering4Generations Website\src\main.jsx             | JavaScript JSX |          0 |          0 |          2 |          2 |
+| c:\Users\skyan\Desktop\Engineering4Generations Website\src\pages\AboutUs.css    | CSS            |         10 |          1 |          4 |         15 |
+| c:\Users\skyan\Desktop\Engineering4Generations Website\src\pages\AboutUs.jsx    | JavaScript JSX |         17 |          0 |          0 |         17 |
+| c:\Users\skyan\Desktop\Engineering4Generations Website\src\pages\Home.css       | CSS            |         15 |          0 |          4 |         19 |
+| c:\Users\skyan\Desktop\Engineering4Generations Website\src\pages\Home.jsx       | JavaScript JSX |         11 |          0 |          1 |         12 |
+| c:\Users\skyan\Desktop\Engineering4Generations Website\src\pages\Team.css       | CSS            |          3 |          0 |          2 |          5 |
+| c:\Users\skyan\Desktop\Engineering4Generations Website\src\pages\Team.jsx       | JavaScript JSX |          6 |          0 |          1 |          7 |
+| c:\Users\skyan\Desktop\Engineering4Generations Website\src\pages\fontstyles.css | CSS            |         90 |          1 |         18 |        109 |
+| Total                                                                           |                |        215 |          6 |         52 |        273 |
++---------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
