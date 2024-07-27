@@ -17,6 +17,7 @@ function NavigationBar() {
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/about">About Us</Nav.Link>
             <Nav.Link href="/team">Our Team</Nav.Link>
+            <Nav.Link href= "/gallery">Gallery</Nav.Link>
             {/* <Nav.Link href="/program">Our Program</Nav.Link>
             <Nav.Link href="/resources">Resources</Nav.Link> */}
           </Nav>

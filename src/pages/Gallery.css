@@ -1,0 +1,22 @@
+.gallery-container {
+    padding: 10px; /* Padding around the container to ensure space between the images and the container's edge */
+    
+    justify-content: center;
+    align-items: center;
+}
+
+.gallery-card {
+  padding: 5px;
+  max-width: 1250px;
+  justify-content: center;
+  align-items: center;
+}
+  .gallery-image {
+    margin: 5px; /* Margin around each image to ensure equal spacing between images */
+    width: 400px; /* Ensures the images fit within their column */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 3%;
+  }
+  
+ 
+  

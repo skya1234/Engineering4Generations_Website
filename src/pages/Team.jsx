@@ -59,7 +59,7 @@ function Team() {
         <Card.Title className="poppins-extrabold-italic">Our Team</Card.Title>
       </Card>
 
-      <Container>
+      <Container className = "gallery-container">
         <Row xs={2} md={2}>
           {teamCards.map((card) => (
             <Col key={card.id}>
